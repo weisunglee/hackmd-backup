@@ -2,6 +2,8 @@
 tags: c++, c++11
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/kfOxqe-JRs6xihKRzIUjBQ/badge)](https://hackmd.io/RpUhk9JnR6u4aMYqTevEaA)
+
 # 如何寫出不會被誤用的code #1
 
 良好的API設計下，如果user寫錯，compile應該會失敗。
