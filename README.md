@@ -1,2 +1,2 @@
 # hackmd-backup
-Just a backuk
+Just a backup
